@@ -5,13 +5,7 @@ import React from 'react'
 function Home(){
     return (
         <div>
-            <div className="ht" style={{backgroundColor:"gray" , 
-                backgroundImage: "url(" + "https://farm1.staticflickr.com/267/18645845275_cfeb11e071.jpg" + ")",
-                backgroundPosition: 'center',
-                backgroundSize: 'cover',
-                backgroundRepeat: 'no-repeat',
-
-              }}>
+            <div className="ht">
             <div class="container" >
               <div>
                 <h1>Welcome to HealthCare</h1>
